@@ -20,7 +20,7 @@ Analyzes customer shopping behavior to uncover spending patterns, customer segme
 1. **Clean & engineer (Python)** — handled missing values, standardized column names, engineered `age_group` and `purchase_frequency_days`, removed redundant `promo_code_used` column
 2. **Analyze (SQL)** — 10 queries covering revenue by gender/age, discount behavior, top products by rating and discount-dependency, subscriber vs. non-subscriber spend, customer segmentation, and repeat-buyer subscription patterns
 3. **Visualize (Power BI)** — interactive dashboard with KPI cards and filters by category, gender, subscription, and shipping type
- <img width="1088" height="607" alt="image" src="https://github.com/user-attachments/assets/8b14ad48-c29c-41eb-aa5c-347efd2c89b3" />
+ <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8b14ad48-c29c-41eb-aa5c-347efd2c89b3" />
   
 4. **Communicate** — written report and Gamma-generated slide deck for non-technical stakeholders
 
